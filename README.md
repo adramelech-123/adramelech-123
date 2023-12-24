@@ -18,7 +18,7 @@ ___
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="60" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
 </span>
 
