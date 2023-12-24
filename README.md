@@ -6,7 +6,7 @@ ___
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p>
+<span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
@@ -15,12 +15,12 @@ ___
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png" title="VueJs"  alt="VueJs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="60" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="60" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
-</p>
+</span>
 
 ___
 
