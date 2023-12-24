@@ -13,4 +13,14 @@ From Web3 architect to AI maestro, I'm building the tools to empower individuals
 <code><img height="30" alt="firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></code>
 <code><img height="30" alt="postgres" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png"></code>
 
+![tailwind](https://www.svgrepo.com/show/354431/tailwindcss-icon.svg)
+![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![typescript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)
+![react](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+![vuejs](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png)
+![nodejs](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
+![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png)
+![postgres](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png)
+
+
 
