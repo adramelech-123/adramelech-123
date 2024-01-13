@@ -7,7 +7,7 @@ ___
 ### 🛠 &nbsp;Languages and Tools :
 
 <span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/640px-Figma-1-logo.png" title="Figma" alt="Figma" width="40" height="50"/>&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/640px-Figma-1-logo.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
 <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
