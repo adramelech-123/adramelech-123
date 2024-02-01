@@ -20,7 +20,7 @@ ___
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;  
 <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;  
-<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;  
 </span>
 
 ___
