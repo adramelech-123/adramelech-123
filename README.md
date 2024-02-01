@@ -11,7 +11,7 @@ ___
 <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp;
 <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
