@@ -1,6 +1,6 @@
 ## Hi there! My name is Taku 👋
 
-From Fullstack Alchemist to Web3 Maestro, I'm building the tools to empower individuals and reshape the digital landscape. Fueled by a vision of a decentralized future, I'm also delving into the frontiers of blockchain, one line of code at a time.
+From Fullstack Developer to Web3 Maestro, I'm building the tools to empower individuals and reshape the digital landscape. Fueled by a vision of a decentralized future, I'm also delving into the frontiers of blockchain, one line of code at a time.
 
 ___
 
