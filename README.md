@@ -8,7 +8,7 @@ ___
 
 <span>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" title="Figma" alt="Figma" width="30" height="40"/>&nbsp; 
-<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;  
+<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp; -->
@@ -20,7 +20,7 @@ ___
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;  
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" title="Jest" alt="Jest testing framework" width="32" height="40"/>&nbsp;  
-<!-- <img src="https://astro.js.org/astro.png" title="Astro" alt="Astro" width="50" height="50"/>&nbsp;   -->
+<img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" title="Vitest" alt="Vitest" width="50" height="50"/>&nbsp;  
 </span>
 
 ___
