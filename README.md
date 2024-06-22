@@ -21,7 +21,7 @@ ___
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;  
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" title="Jest" alt="Jest testing framework" width="32" height="40"/>&nbsp;  
 <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;  
-<img src="https://i.pinimg.com/originals/97/0f/e2/970fe2d719dd25acb9cac2a649f62edf.png" title="MockServiceWorker" alt="Mock Service Worker" width="40" height="40"/>&nbsp;    
+<!-- <img src="https://i.pinimg.com/originals/97/0f/e2/970fe2d719dd25acb9cac2a649f62edf.png" title="MockServiceWorker" alt="Mock Service Worker" width="40" height="40"/>&nbsp;     -->
 </span>
 
 ___
