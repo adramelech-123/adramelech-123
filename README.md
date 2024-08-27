@@ -8,7 +8,7 @@
 
 I'm a passionate fullstack developer with a love for crafting scalable web applications and exploring new technologies. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and solving complex problems.
 
-### 🛠 &nbsp;My Languages and Tools :
+### 🛠 &nbsp;My Tech-Stack:
 
 <span>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" title="Figma" alt="Figma" width="30" height="40"/>&nbsp; 
