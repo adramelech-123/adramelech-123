@@ -1,10 +1,15 @@
+
 ## Hi there! My name is Taku 👋
 
-From Fullstack Developer to Web3 Maestro, I'm building the tools to empower individuals and reshape the digital landscape. Fueled by a vision of a decentralized future, I'm also delving into the frontiers of blockchain, one line of code at a time.
+🚀 **Fullstack Developer** | 💻 **Blockchain Enthusiast** | 🌍 **Lifelong Learner**
 
-___
+---
 
-### 🛠 &nbsp;Languages and Tools :
+### About Me
+
+I'm a passionate fullstack developer with a love for crafting scalable web applications and exploring new technologies. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and solving complex problems.
+
+### 🛠 &nbsp;My Languages and Tools :
 
 <span>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" title="Figma" alt="Figma" width="30" height="40"/>&nbsp; 
@@ -24,5 +29,21 @@ ___
 <!-- <img src="https://i.pinimg.com/originals/97/0f/e2/970fe2d719dd25acb9cac2a649f62edf.png" title="MockServiceWorker" alt="Mock Service Worker" width="40" height="40"/>&nbsp;     -->
 </span>
 
-___
+---
 
+### What I'm Working On
+
+- 🌱 **Learning:** Diving into Golang and Docker to enhance my backend efficiency and containerization skills.
+- 🚀 **Projects:** Currently working on a cool anime website for for fans who want to skip filler episodes. Check it out here [FillerXEpisodes](https://fillerxepisodes.com/)
+
+---
+
+### Let's Connect via my Website
+
+- 🌍 **Portfolio:** [TheRealTaku](https://therealtaku.vercel.app/)
+
+---
+
+Feel free to fork and star my repos if you find them useful! 🌟
+
+---
