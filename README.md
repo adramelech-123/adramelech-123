@@ -13,7 +13,7 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" title="Golang" alt="Golang" width="97" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp;
-<img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=640&q=75" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
