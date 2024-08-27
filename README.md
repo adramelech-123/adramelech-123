@@ -33,7 +33,7 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 ### What I'm Working On
 
 - 🌱 **Learning:** Diving into Golang and Docker to enhance my backend efficiency and containerization skills.
-- 🚀 **Projects:** Currently working on a cool anime website for for fans who want to skip filler episodes. Check it out [here](https://fillerxepisodes.com/)
+- 🚀 **Projects:** Currently working on a cool anime website for fans who want to skip filler episodes. Check it out [here](https://fillerxepisodes.com/)
 
 
 ### Check out some of my work!
