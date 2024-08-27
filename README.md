@@ -36,7 +36,7 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 - 🚀 **Projects:** Currently working on a cool anime website for for fans who want to skip filler episodes. Check it out here [FillerXEpisodes](https://fillerxepisodes.com/)
 
 
-### Let's Connect via my Website
+### Check out some of my work!
 
 - 🌍 **Portfolio:** [TheRealTaku](https://therealtaku.vercel.app/)
 
