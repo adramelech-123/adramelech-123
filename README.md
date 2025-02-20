@@ -24,7 +24,7 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;  
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" title="Jest" alt="Jest testing framework" width="32" height="40"/>&nbsp;   
-<!-- <img src="https://i.pinimg.com/originals/97/0f/e2/970fe2d719dd25acb9cac2a649f62edf.png" title="MockServiceWorker" alt="Mock Service Worker" width="40" height="40"/>&nbsp;     -->
+<img src="https://images.seeklogo.com/logo-png/47/3/astro-icon-logo-png_seeklogo-477952.png?v=1957909325912360216" title="MockServiceWorker" alt="Mock Service Worker" width="40" height="40"/>&nbsp;    
 </span>
 
 ---
