@@ -38,7 +38,7 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 
 ### Check out some of my work!
 
-- 🌍 **Portfolio:** [TheRealTaku](https://therealtaku.vercel.app/)
+- 🌍 **Portfolio:** [TheRealTaku](https://therealtaku-dev.vercel.app/))
 
 ---
 
