@@ -19,7 +19,7 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp;
 <img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=640&q=75" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+<!-- <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp; -->
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;  
