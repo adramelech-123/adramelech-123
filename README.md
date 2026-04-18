@@ -1,8 +1,6 @@
-
 ## Hi there! My name is Taku 👋
 
 🔬⚗️ **Fullstack Alchemist** | 💻 **Tech Junkie** | 🌍 **Obsessive Learner**
-
 
 ### Whoami
 
@@ -10,23 +8,26 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 
 ### 🛠 &nbsp;Technologies:
 
-<span>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" title="Figma" alt="Figma" width="30" height="40"/>&nbsp; 
-<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" title="Golang" alt="Golang" width="97" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp;
-<img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=640&q=75" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!-- <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp; -->
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;  
-<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" title="Jest" alt="Jest testing framework" width="32" height="40"/>&nbsp;   
-<img src="https://www.svgrepo.com/show/452192/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;    
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" title="NestJS" **alt="NestJS" width="40" height="40"/>&nbsp;  
-</span>
+**Frontend & Design**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Languages & Backend**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Database & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -35,7 +36,6 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 - 🌱 **Learning:** Diving into the field of Blockchain, namely Solidity and the Rust-based Solana.
 - 🚀 **Projects:** Currently working on a cool anime website for fans who want to skip filler episodes. Check it out [here](https://fillerxepisodes.com/)
 
-
 ### Check out some of my work!
 
 - 🌍 **Portfolio:** [TheRealTaku](https://therealtaku-dev.vercel.app)
@@ -43,5 +43,3 @@ I'm a passionate fullstack developer with a love for crafting scalable web appli
 ---
 
 Feel free to fork and star my repos if you find them useful! 🌟
-
----
